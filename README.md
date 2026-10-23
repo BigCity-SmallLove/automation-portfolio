@@ -1,5 +1,7 @@
 # Python Automation Portfolio
 
+[View the live HTTPS portfolio](https://bigcity-smalllove.github.io/automation-portfolio/)
+
 Static English portfolio for BigCity-SmallLove: Python automation, Windows desktop tools and offline security log analysis. Built with HTML, CSS and a small contact configuration script. No build dependencies, backend, analytics, forms or third-party fonts.
 
 ## Preview locally
